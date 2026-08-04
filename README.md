@@ -6,13 +6,13 @@ An AI-powered **Next Word Prediction** web application built using **TensorFlow*
 
 ## 🚀 Live Demo
 
-🔗 **Coming Soon**
+🔗 **(https://nextwordpredic.streamlit.app/)**
 
 ---
 
 ## 📸 Application Preview
 
-> Add screenshots of your Streamlit application here.
+
 
 <img width="1920" height="1080" alt="Screenshot 2026-08-04 171622" src="https://github.com/user-attachments/assets/a3b35181-0e9b-4b72-a59d-292b54fc0fac" />
 
