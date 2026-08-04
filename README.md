@@ -14,9 +14,9 @@ An AI-powered **Next Word Prediction** web application built using **TensorFlow*
 
 > Add screenshots of your Streamlit application here.
 
-| Home Page | Prediction |
-|-----------|------------|
-| ![Home]("Screenshot 2026-08-04 172419.png") | ![Prediction]([Screenshot 2026-08-04 171622.png](https://github.com/mohakmogs/Next_Word_Predictor-Lstm_model/blob/main/Screenshot%202026-08-04%20171622.png)) |
+<img width="1920" height="1080" alt="Screenshot 2026-08-04 171622" src="https://github.com/user-attachments/assets/a3b35181-0e9b-4b72-a59d-292b54fc0fac" />
+
+
 
 ---
 
