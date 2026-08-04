@@ -16,7 +16,7 @@ An AI-powered **Next Word Prediction** web application built using **TensorFlow*
 
 | Home Page | Prediction |
 |-----------|------------|
-| ![Home](Screenshot 2026-08-04 172419.png) | ![Prediction](Screenshot 2026-08-04 171622.png) |
+| ![Home]("Screenshot 2026-08-04 172419.png") | ![Prediction](Screenshot 2026-08-04 171622.png) |
 
 ---
 
